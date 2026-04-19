@@ -1,7 +1,5 @@
 # ¡Hola! Soy Andrés Fernando Doncel 👋
 
-### 🚀 Sobre mí
-Soy un Esudiante de ing.sistemas, apasionado por crear soluciones tecnológicas eficientes. Actualmente enfocado en graduarme de once y aprender nuevas habilidades de programacion.
 
 - 🔭 Actualmente trabajo en: Proyectos personales
 - 🌱 Estoy aprendiendo: Programacion POO y desarrollo de paginas web
