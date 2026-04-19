@@ -1,12 +1,12 @@
-# ¡Hola! Soy Andrés Fernando DOncel 👋
+# ¡Hola! Soy Andrés Fernando Doncel 👋
 
 ### 🚀 Sobre mí
-Soy un **[Tu Profesión/Rol, ej: Desarrollador Full Stack]** apasionado por crear soluciones tecnológicas eficientes. Actualmente enfocado en **[Lo que estés aprendiendo o trabajando ahora]**.
+Soy un Esudiante de ing.sistemas, apasionado por crear soluciones tecnológicas eficientes. Actualmente enfocado en graduarme de once y aprender nuevas habilidades de programacion.
 
-- 🔭 Actualmente trabajo en: **[Nombre del Proyecto]**
-- 🌱 Estoy aprendiendo: **[Tecnología o Framework]**
-- 💬 Pregúntame sobre: **[Tus temas de dominio]**
-- ⚡ Dato curioso: **[Algo divertido sobre ti]**
+- 🔭 Actualmente trabajo en: Proyectos personales
+- 🌱 Estoy aprendiendo: Programacion POO y desarrollo de paginas web
+- 💬 Pregúntame sobre: ingles, analizis profundo, piscologia
+- ⚡ Dato curioso: soy bastante curioso y aprendo por naturaleza
 
 ---
 
@@ -31,4 +31,4 @@ Aquí están algunas de las herramientas con las que trabajo a diario:
 ¿Quieres charlar sobre algún proyecto o simplemente saludar? 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Twitter](https://shields.io)](https://twitter.com)
-[Tu Email](mailto:tuemail@ejemplo.com)
+[Tu Email](andrefernandodoncelcano@gmail.com)
